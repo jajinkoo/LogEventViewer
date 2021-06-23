@@ -16,5 +16,10 @@ namespace LogEventViewer
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //20210623 push test
+        }
     }
 }
